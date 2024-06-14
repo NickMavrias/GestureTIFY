@@ -37,7 +37,7 @@ After creating the venv, you will need to add the following files from the resou
 8. You will be presented with the results of our model.
 
 ## Acknowledgments
-**IoT-Course-AIoT-project**: This project was inspired by or based on concepts derived from [GitHub Repository Name](https://github.com/AIoT-Group-UoP/IoT-Course-AIoT-project). Thanks to the original authors for their work.
+**IoT-Course-AIoT-project**: This project was inspired by or based on concepts derived from [IoT-Course-AIoT-project](https://github.com/AIoT-Group-UoP/IoT-Course-AIoT-project). Thanks to the original authors for their work.
 
 ## Contact Us
 Feel free to reach out for any queries at the following
