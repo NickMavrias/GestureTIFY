@@ -26,10 +26,8 @@ After creating the venv, you will need to add the following files from the resou
 1. Firstly install the dependencies with "pip install -r requirements.txt".
 2. Start Jupyter Notebook or JupyterLab using Miniconda by running these commands:
     cd C:\Users\user\miniconda3\envs\myenv 
-    ## where path is the path to your venv
     conda env list
     conda activate myenv
-    ## where myenv is the name of your venv
     jupyter notebook
 3. In the browser you should find the port opened with the directory
 4. Open firstly the aiot_dataset_creation notebook
